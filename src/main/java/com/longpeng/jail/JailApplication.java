@@ -14,9 +14,8 @@ import org.springframework.web.context.request.RequestContextListener;
 @EntityScan(basePackages = {"com.cq1080.auth","com.longpeng.jail"})
 @EnableJpaRepositories(basePackages = {"com.cq1080.auth","com.longpeng.jail"})
 /**
- * @Author longpeng
+ * @Author maochengcheng
  * 正式交付源码 2020-03-11
- * 二次交付源码日期 2020-05-05
  */
 public class JailApplication {
 
